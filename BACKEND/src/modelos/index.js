@@ -1,1 +1,3 @@
-module.exports = {}
+module.exports = {
+    usuario: require('./usuario.modelo')
+}
